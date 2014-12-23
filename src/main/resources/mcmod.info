@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "AdOmnia",
+  "name": "AdOmnia",
+  "description": "\"Ex nihilo ad omnia.\" - From everything to nothing.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["shadowfacts"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
